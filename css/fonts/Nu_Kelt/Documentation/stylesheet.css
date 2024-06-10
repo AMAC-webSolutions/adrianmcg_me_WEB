@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'NuKelt';
+    src: url('NuKelt.eot');
+    src: url('NuKelt.eot?#iefix') format('embedded-opentype'),
+        url('NuKelt.woff2') format('woff2'),
+        url('NuKelt.ttf') format('truetype'),
+        url('NuKelt.svg#NuKelt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

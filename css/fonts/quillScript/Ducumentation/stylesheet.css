@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'QuillScript';
+    src: url('QuillScript.eot');
+    src: url('QuillScript.eot?#iefix') format('embedded-opentype'),
+        url('QuillScript.woff2') format('woff2'),
+        url('QuillScript.svg#QuillScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

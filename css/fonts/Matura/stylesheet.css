@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Matura MT Script Capitals';
+    src: url('MaturaMTScriptCapitals.eot');
+    src: url('MaturaMTScriptCapitals.eot?#iefix') format('embedded-opentype'),
+        url('MaturaMTScriptCapitals.woff2') format('woff2'),
+        url('MaturaMTScriptCapitals.woff') format('woff'),
+        url('MaturaMTScriptCapitals.ttf') format('truetype'),
+        url('MaturaMTScriptCapitals.svg#MaturaMTScriptCapitals') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
